@@ -9,7 +9,9 @@
     quiet nights • long arcs • slow progress
   </i>
 </p>
+
 ---
+
 ## 🌙 About (静かな自己紹介)
 
 Hi 👋 I'm Rohit  
@@ -23,13 +25,19 @@ AI/ML — prologue just started
 
 full-stack web dev • UI/UX (Figma)  
 likes planning, organizing, and sleeping 😴  
+
 ---
-> “Give up on your dreams and die !”
+
+<p align="center">
+  <i>“Give up on your dreams and die !”</i>
+</p>
+
 ---
 
 ## 🌱 Skill Tree (スキルツリー)
 
 ### Techstack
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=flat-square&logo=typescript&logoColor=white)
@@ -55,6 +63,15 @@ likes planning, organizing, and sleeping 😴
 ![GitHub](https://img.shields.io/badge/github-121011?style=flat-square&logo=github&logoColor=white)
 ![Jest](https://img.shields.io/badge/jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+---
+
+## 📈 Training Log (記録)
+
+![](https://github-readme-stats.vercel.app/api?username=watermelon588&theme=github_dark&hide_border=true&show_icons=true)
+![](https://nirzak-streak-stats.vercel.app/?user=watermelon588&theme=github-dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=watermelon588&layout=compact&theme=github_dark&hide_border=true)
+
 ---
 
 ## 🧭 Current Arc (現在の章)
@@ -66,15 +83,14 @@ likes planning, organizing, and sleeping 😴
 ---
 
 ## 🌐 Quiet Links (繋がり)
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/rohit_0.0)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/maity-rohit)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:maityrohit021@gmail.com)
----
-## 📈 Training Log (記録)
-![](https://github-readme-stats.vercel.app/api?username=watermelon588&theme=github_dark&hide_border=true&show_icons=true)
-![](https://nirzak-streak-stats.vercel.app/?user=watermelon588&theme=github-dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=watermelon588&layout=compact&theme=github_dark&hide_border=true)
+
 ---
 
-> 心臓を捧げよ！  
-> *Shinzou wo Sasageyo!*
+<p align="center">
+  心臓を捧げよ！<br/>
+  <i>Shinzou wo Sasageyo!</i>
+</p>
