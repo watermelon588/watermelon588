@@ -1,7 +1,7 @@
 <!-- ===================== BANNER ===================== -->
 
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/34/71/ef/3471ef6a4dc1ebd88272db930088c40b.jpg" alt="lofi anime blue night" />
+  <img src="https://i.pinimg.com/1200x/88/7f/ba/887fbac4c1e181ef27f904e6c29cba58.jpg" alt="lofi anime blue night" />
 </p>
 
 <p align="center">
