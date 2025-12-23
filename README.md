@@ -23,18 +23,8 @@ AI/ML — prologue just started
 
 full-stack web dev • UI/UX (Figma)  
 likes planning, organizing, and sleeping 😴  
-
 ---
-
 > “Give up on your dreams and die !”
----
-
-## 🧭 Current Arc (現在の章)
-
-• real-time systems (WebSockets, WebRTC)  
-• infrastructure & DevOps basics  
-• easing into AI / ML  
-
 ---
 
 ## 🌱 Skill Tree (スキルツリー)
@@ -65,6 +55,14 @@ likes planning, organizing, and sleeping 😴
 ![GitHub](https://img.shields.io/badge/github-121011?style=flat-square&logo=github&logoColor=white)
 ![Jest](https://img.shields.io/badge/jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+---
+
+## 🧭 Current Arc (現在の章)
+
+• real-time systems (WebSockets, WebRTC)  
+• infrastructure & DevOps basics  
+• easing into AI / ML  
+
 ---
 
 ## 🌐 Quiet Links (繋がり)
