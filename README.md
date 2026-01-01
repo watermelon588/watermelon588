@@ -34,6 +34,20 @@ likes planning, organizing, and sleeping 😴
 
 ---
 
+## 🛠️ Currently Working On (進行中)
+
+**• Callzy** — a real-time video calling app  
+&nbsp;&nbsp;↳ WebRTC · WebSockets · signaling · low-latency communication  
+
+**• Yapchat** — an online real-time messaging app  
+&nbsp;&nbsp;↳ WebSockets · Socket.IO · real-time messaging  
+
+**• Stock Trading Clone (Zerodha-inspired)**  
+&nbsp;&nbsp;↳ frontend + backend system design  
+&nbsp;&nbsp;↳ charts, auth, orders, dashboards  
+
+---
+
 ## 🌱 Skill Tree (スキルツリー)
 
 ### Techstack
