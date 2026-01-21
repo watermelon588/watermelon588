@@ -82,17 +82,7 @@ likes planning, organizing, and sleeping 😴
 
 ## 📈 Training Log (記録)
 
-![](https://github-readme-stats.vercel.app/api?username=watermelon588&theme=github_dark&hide_border=true&show_icons=true&hide_rank=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=watermelon588&theme=github-dark&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=watermelon588&layout=compact&theme=github_dark&hide_border=true)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=watermelon588&theme=github_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=watermelon588&theme=github_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=watermelon588&theme=github_dark)
+![](https://github-readme-stats.vercel.app/api?username=watermelon588&theme=github_dark&hide_border=true&show_icons=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=watermelon588&theme=github-dark&hide_border=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=watermelon588&layout=compact&theme=github_dark&hide_border=true) ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=watermelon588&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=watermelon588&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=watermelon588&theme=github_dark) my day streak stats are not visible !!
 
 
 ---
