@@ -19,12 +19,12 @@ Hi 👋 I'm Rohit
 brain-rotted weeb coder.  
 drawn to weird tech & quiet ideas.  
 
-currently learning  
-• WebSockets • WebRTC • DevOps  
-AI/ML — prologue just started  
+## 🚀 Currently Learning
 
-full-stack web dev • UI/UX (Figma)  
-likes planning, organizing, and sleeping 😴  
+• WebSockets • WebRTC  
+• FastAPI • Advanced Python  
+• DevOps  
+• AI/ML — prologue just started  
 
 ---
 
@@ -36,11 +36,12 @@ likes planning, organizing, and sleeping 😴
 
 ## 🛠️ Currently Working On (進行中)
 
-**• Callzy** — a real-time video calling app  
-&nbsp;&nbsp;↳ WebRTC · WebSockets · signaling · low-latency communication  
+**• Multimodal Semantic Search System** — building an AI-powered search engine  
+&nbsp;&nbsp;↳ FAISS vector database · Whisper · CLIP · semantic retrieval  
+&nbsp;&nbsp;↳ multimodal inputs (audio, image, text) → intelligent search  
 
-**• Yapchat** — an online real-time messaging app  
-&nbsp;&nbsp;↳ WebSockets · Socket.IO · real-time messaging  
+**• Callzy** — a real-time video calling platform  
+&nbsp;&nbsp;↳ WebRTC · WebSockets · signaling server · low-latency streaming  
 
 **• Stock Trading Clone (Zerodha-inspired)**  
 &nbsp;&nbsp;↳ frontend + backend system design  
@@ -95,8 +96,9 @@ likes planning, organizing, and sleeping 😴
 ## 🧭 Current Arc (現在の章)
 
 • real-time systems (WebSockets, WebRTC)  
+• backend depth (FastAPI, advanced Python)  
 • infrastructure & DevOps basics  
-• easing into AI / ML  
+• AI systems (RAG, Vector DBs, LangChain, FAISS)  
 
 ---
 
