@@ -10,20 +10,44 @@
 
 ---
 
-## About (自己紹介)
+<!-- ===================== ABOUT ===================== -->
 
-I'm Rohit — a backend-focused software engineer.
+<table>
+<tr>
+<td width="62%" valign="top">
 
-I care about how systems hold up once they leave the laptop: how services talk to each
-other, where the bottlenecks hide, what breaks under load, and what it costs to keep
-things running. Most of my time goes into designing and building production-grade
-backends rather than chasing surface polish.
+<h2>About (自己紹介)</h2>
 
-Things I keep circling back to:
+<p>I'm Rohit — a backend-focused software engineer.</p>
 
-`Backend Engineering` · `Distributed Systems` · `Microservices` · `System Design`
-`API Design` · `Real-time Systems` · `AI Engineering` · `Infrastructure`
-`Scalability` · `Security` · `Production Architecture`
+<p>
+I care about how systems hold up once they leave the laptop: how services talk
+to each other, where the bottlenecks hide, what breaks under load, and what it
+costs to keep things running. Most of my time goes into designing and building
+production-grade backends rather than chasing surface polish.
+</p>
+
+<p>Things I keep circling back to:</p>
+
+<p>
+<code>Backend Engineering</code> · <code>Distributed Systems</code> ·
+<code>Microservices</code> · <code>System Design</code> · <code>API Design</code> ·
+<code>Real-time Systems</code> · <code>AI Engineering</code> ·
+<code>Infrastructure</code> · <code>Scalability</code> · <code>Security</code> ·
+<code>Production Architecture</code>
+</p>
+
+</td>
+<td width="38%" valign="top" align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/watermelon588/watermelon588/main/assets/portrait-dark.png" />
+  <img src="https://raw.githubusercontent.com/watermelon588/watermelon588/main/assets/portrait-light.png" width="100%" alt="" />
+</picture>
+
+</td>
+</tr>
+</table>
 
 ---
 
