@@ -215,6 +215,7 @@ What I'm actively pushing on right now:
 ## Links (繋がり)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/maity-rohit)
+[![X](https://img.shields.io/badge/X-0D1117?style=flat-square&logo=x&logoColor=FFFFFF)](https://x.com/turquoise_0904)
 [![Email](https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:maityrohit021@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=flat-square&logo=instagram&logoColor=E4405F)](https://instagram.com/rohit_0.0)
 
