@@ -188,27 +188,12 @@ What I'm actively pushing on right now:
 
 [![Followers](https://img.shields.io/github/followers/watermelon588?style=flat-square&color=0D1117&labelColor=0D1117&logo=github&logoColor=FFFFFF&label=followers)](https://github.com/watermelon588?tab=followers)
 [![Stars](https://img.shields.io/github/stars/watermelon588?style=flat-square&affiliations=OWNER&color=0D1117&labelColor=0D1117&logo=github&logoColor=FFFFFF&label=stars)](https://github.com/watermelon588?tab=repositories)
-
-<table>
-<tr>
-<td width="50%" valign="middle">
+![Profile views](https://komarev.com/ghpvc/?username=watermelon588&style=flat-square&color=0D1117&label=profile+views)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=watermelon588&theme=dark&hide_border=true&background=0D111700&ring=7AA2F7&fire=7AA2F7&currStreakLabel=7AA2F7&card_width=480" />
-  <img src="https://streak-stats.demolab.com/?user=watermelon588&theme=default&hide_border=true&background=FFFFFF00&ring=0049CD&fire=0049CD&currStreakLabel=0049CD&card_width=480" width="100%" alt="Contribution streak" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=watermelon588&theme=github-dark&hide_border=true&area=true&custom_title=Contribution%20activity&height=280" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=watermelon588&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20activity&height=280" width="100%" alt="Contribution activity graph" />
 </picture>
-
-</td>
-<td width="50%" valign="middle">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=watermelon588&theme=github-dark&hide_border=true&area=true&hide_title=true&height=195" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=watermelon588&theme=github-compact&hide_border=true&area=true&hide_title=true&height=195" width="100%" alt="Contribution activity graph" />
-</picture>
-
-</td>
-</tr>
-</table>
 
 ---
 
