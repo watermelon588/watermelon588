@@ -58,7 +58,7 @@ into one place.
 
 ## Shipped (公開済み)
 
-### <img src="https://raw.githubusercontent.com/watermelon588/watermelon588/main/assets/skyguide.png" height="22" align="top" /> SkyGuide AI
+### <img src="https://raw.githubusercontent.com/watermelon588/watermelon588/main/assets/skyguide.png" height="22" align="top" /> [SkyGuide AI](https://skyguide-ai.vercel.app)
 
 AI-powered astronomical observation platform. Distributed microservices behind an API
 gateway — FastAPI for the compute-heavy work, Node.js for the application layer, and a
@@ -74,7 +74,7 @@ pipeline.
 
 `Semantic Search` · `Embeddings` · `Vector Search` · `FAISS` · `CLIP` · `Whisper`
 
-### <img src="https://raw.githubusercontent.com/watermelon588/watermelon588/main/assets/yapchat.png" height="22" align="top" /> YapChat
+### <img src="https://raw.githubusercontent.com/watermelon588/watermelon588/main/assets/yapchat.png" height="22" align="top" /> [YapChat](https://yap-chat-five.vercel.app)
 
 Real-time communication platform. WebRTC for peer-to-peer media, a Socket.IO signaling
 server, and authentication layered on top.
