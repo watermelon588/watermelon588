@@ -109,50 +109,54 @@ server, and authentication layered on top.
 
 ## Tech Stack (技術スタック)
 
-**Languages**
+<p>
+  <sub><b>Languages</b></sub><br/>
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="42" alt="python" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="42" alt="typescript" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="42" alt="javascript" />
+  <img src="https://cdn.simpleicons.org/c/00599C/659AD2" height="42" alt="c" />
+</p>
 
-![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![C](https://img.shields.io/badge/C-0D1117?style=flat-square&logo=c&logoColor=A8B9CC)
+<p>
+  <sub><b>Backend</b></sub><br/>
+  <img src="https://cdn.simpleicons.org/fastapi/009688" height="42" alt="fastapi" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" height="42" alt="nodedotjs" />
+  <img src="https://cdn.simpleicons.org/express/000000/FFFFFF" height="42" alt="express" />
+  <img src="https://cdn.simpleicons.org/socketdotio/010101/FFFFFF" height="42" alt="socketdotio" />
+  <img src="https://cdn.simpleicons.org/webrtc/333333/FFFFFF" height="42" alt="webrtc" />
+  <img src="https://cdn.simpleicons.org/jsonwebtokens/000000/FFFFFF" height="42" alt="jsonwebtokens" />
+</p>
 
-**Backend**
+<p>
+  <sub><b>AI &amp; Machine Learning</b></sub><br/>
+  <img src="https://cdn.simpleicons.org/numpy/4DABCF" height="42" alt="numpy" />
+</p>
 
-![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=009688)
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=node.js&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-0D1117?style=flat-square&logo=express&logoColor=FFFFFF)
-![Socket.io](https://img.shields.io/badge/Socket.IO-0D1117?style=flat-square&logo=socket.io&logoColor=FFFFFF)
-![WebRTC](https://img.shields.io/badge/WebRTC-0D1117?style=flat-square&logo=webrtc&logoColor=333333)
-![JWT](https://img.shields.io/badge/JWT-0D1117?style=flat-square&logo=jsonwebtokens&logoColor=D63AFF)
+<p>
+  <sub><b>Databases</b></sub><br/>
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="42" alt="mongodb" />
+</p>
 
-**AI & Machine Learning**
+<p>
+  <sub><b>Infrastructure &amp; Deployment</b></sub><br/>
+  <img src="https://cdn.simpleicons.org/linux/FCC624" height="42" alt="linux" />
+  <img src="https://cdn.simpleicons.org/vercel/000000/FFFFFF" height="42" alt="vercel" />
+  <img src="https://cdn.simpleicons.org/render/000000/FFFFFF" height="42" alt="render" />
+</p>
 
-![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=flat-square&logo=numpy&logoColor=013243)
-![FAISS](https://img.shields.io/badge/FAISS-0D1117?style=flat-square&logo=meta&logoColor=0467DF)
-![CLIP](https://img.shields.io/badge/CLIP-0D1117?style=flat-square&logo=openai&logoColor=FFFFFF)
-![Whisper](https://img.shields.io/badge/Whisper-0D1117?style=flat-square&logo=openai&logoColor=FFFFFF)
+<p>
+  <sub><b>Frontend</b></sub><br/>
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="42" alt="react" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/000000/FFFFFF" height="42" alt="nextdotjs" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="42" alt="tailwindcss" />
+</p>
 
-**Databases**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=47A248)
-
-**Infrastructure & Deployment**
-
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=FCC624)
-![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=flat-square&logo=vercel&logoColor=FFFFFF)
-![Render](https://img.shields.io/badge/Render-0D1117?style=flat-square&logo=render&logoColor=46E3B7)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=next.js&logoColor=FFFFFF)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032)
-![Postman](https://img.shields.io/badge/Postman-0D1117?style=flat-square&logo=postman&logoColor=FF6C37)
-![Figma](https://img.shields.io/badge/Figma-0D1117?style=flat-square&logo=figma&logoColor=F24E1E)
+<p>
+  <sub><b>Tools</b></sub><br/>
+  <img src="https://cdn.simpleicons.org/git/F05032" height="42" alt="git" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="42" alt="postman" />
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="42" alt="figma" />
+</p>
 
 ---
 
@@ -177,6 +181,16 @@ What I'm actively pushing on right now:
 
 [![Followers](https://img.shields.io/github/followers/watermelon588?style=flat-square&color=0D1117&labelColor=0D1117&logo=github&logoColor=FFFFFF&label=followers)](https://github.com/watermelon588?tab=followers)
 [![Stars](https://img.shields.io/github/stars/watermelon588?style=flat-square&affiliations=OWNER&color=0D1117&labelColor=0D1117&logo=github&logoColor=FFFFFF&label=stars)](https://github.com/watermelon588?tab=repositories)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=watermelon588&theme=dark&hide_border=true&background=0D111700&ring=7AA2F7&fire=7AA2F7&currStreakLabel=7AA2F7" />
+  <img src="https://streak-stats.demolab.com/?user=watermelon588&theme=default&hide_border=true&background=FFFFFF00&ring=0049CD&fire=0049CD&currStreakLabel=0049CD" width="480" alt="Contribution streak" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=watermelon588&theme=github-dark&hide_border=true&area=true&custom_title=Contribution%20activity" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=watermelon588&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20activity" width="100%" alt="Contribution activity graph" />
+</picture>
 
 ---
 
