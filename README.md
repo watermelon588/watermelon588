@@ -111,51 +111,58 @@ server, and authentication layered on top.
 
 <p>
   <sub><b>Languages</b></sub><br/>
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="42" alt="python" />
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="42" alt="typescript" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="42" alt="javascript" />
-  <img src="https://cdn.simpleicons.org/c/00599C/659AD2" height="42" alt="c" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="34" alt="python" />
+  <img src="https://cdn.simpleicons.org/openjdk/437291/8FB8D8" height="34" alt="openjdk" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="34" alt="typescript" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="34" alt="javascript" />
+  <img src="https://cdn.simpleicons.org/c/00599C/659AD2" height="34" alt="c" />
 </p>
 
 <p>
   <sub><b>Backend</b></sub><br/>
-  <img src="https://cdn.simpleicons.org/fastapi/009688" height="42" alt="fastapi" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" height="42" alt="nodedotjs" />
-  <img src="https://cdn.simpleicons.org/express/000000/FFFFFF" height="42" alt="express" />
-  <img src="https://cdn.simpleicons.org/socketdotio/010101/FFFFFF" height="42" alt="socketdotio" />
-  <img src="https://cdn.simpleicons.org/webrtc/333333/FFFFFF" height="42" alt="webrtc" />
-  <img src="https://cdn.simpleicons.org/jsonwebtokens/000000/FFFFFF" height="42" alt="jsonwebtokens" />
+  <img src="https://cdn.simpleicons.org/fastapi/009688" height="34" alt="fastapi" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" height="34" alt="nodedotjs" />
+  <img src="https://cdn.simpleicons.org/express/000000/FFFFFF" height="34" alt="express" />
+  <img src="https://cdn.simpleicons.org/socketdotio/010101/FFFFFF" height="34" alt="socketdotio" />
+  <img src="https://cdn.simpleicons.org/webrtc/333333/FFFFFF" height="34" alt="webrtc" />
+  <img src="https://cdn.simpleicons.org/jsonwebtokens/000000/FFFFFF" height="34" alt="jsonwebtokens" />
+  <br/><sub>REST APIs · WebSockets</sub>
 </p>
 
 <p>
   <sub><b>AI &amp; Machine Learning</b></sub><br/>
-  <img src="https://cdn.simpleicons.org/numpy/4DABCF" height="42" alt="numpy" />
+  <img src="https://cdn.simpleicons.org/numpy/4DABCF" height="34" alt="numpy" />
+  <img src="https://cdn.simpleicons.org/pandas/150458/E70488" height="34" alt="pandas" />
+  <br/><sub>Matplotlib · FAISS · CLIP · Whisper</sub>
 </p>
 
 <p>
   <sub><b>Databases</b></sub><br/>
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="42" alt="mongodb" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="34" alt="mongodb" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="34" alt="mysql" />
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="34" alt="postgresql" />
+  <img src="https://cdn.simpleicons.org/redis/FF4438" height="34" alt="redis" />
 </p>
 
 <p>
   <sub><b>Infrastructure &amp; Deployment</b></sub><br/>
-  <img src="https://cdn.simpleicons.org/linux/FCC624" height="42" alt="linux" />
-  <img src="https://cdn.simpleicons.org/vercel/000000/FFFFFF" height="42" alt="vercel" />
-  <img src="https://cdn.simpleicons.org/render/000000/FFFFFF" height="42" alt="render" />
+  <img src="https://cdn.simpleicons.org/linux/FCC624" height="34" alt="linux" />
+  <img src="https://cdn.simpleicons.org/vercel/000000/FFFFFF" height="34" alt="vercel" />
+  <img src="https://cdn.simpleicons.org/render/000000/FFFFFF" height="34" alt="render" />
 </p>
 
 <p>
   <sub><b>Frontend</b></sub><br/>
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="42" alt="react" />
-  <img src="https://cdn.simpleicons.org/nextdotjs/000000/FFFFFF" height="42" alt="nextdotjs" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="42" alt="tailwindcss" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="34" alt="react" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/000000/FFFFFF" height="34" alt="nextdotjs" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="34" alt="tailwindcss" />
 </p>
 
 <p>
   <sub><b>Tools</b></sub><br/>
-  <img src="https://cdn.simpleicons.org/git/F05032" height="42" alt="git" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="42" alt="postman" />
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="42" alt="figma" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="34" alt="git" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="34" alt="postman" />
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="34" alt="figma" />
 </p>
 
 ---
