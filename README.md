@@ -151,9 +151,8 @@ What I'm actively pushing on right now:
 
 ## Stats (記録)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=watermelon588&theme=github_dark&hide_border=true&show_icons=true&hide_rank=true&count_private=true" alt="GitHub stats" />
-</p>
+[![Followers](https://img.shields.io/github/followers/watermelon588?style=flat-square&color=0D1117&labelColor=0D1117&logo=github&logoColor=FFFFFF&label=followers)](https://github.com/watermelon588?tab=followers)
+[![Stars](https://img.shields.io/github/stars/watermelon588?style=flat-square&affiliations=OWNER&color=0D1117&labelColor=0D1117&logo=github&logoColor=FFFFFF&label=stars)](https://github.com/watermelon588?tab=repositories)
 
 ---
 
