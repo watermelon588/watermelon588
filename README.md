@@ -8,65 +8,6 @@
   <i style="color:#7aa2f7;">Cracked dev. nerding out.</i>
 </p>
 
-<!-- ===================== ASCII ===================== -->
-
-```
-        .+%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#*#@@@@
-    .. :*%#%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%@@@@@
-    . .=#@#%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%
-      -*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%@%#*
-     -*%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%%@@@@@
-    ..#%%@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@@@@@@@@@@@@@@%#*+
-   . .#%@%#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%#*+=--
-     :#%@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@@@@@@@@@*====-
-     .#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%@@@@@%+====
-   .. =%#@@@@@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%%@@@@@@%==+=
-   .   +%@@@@@#+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@@@@@@@@@@@@%+=+
-.:...:=#@@@@@%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%@@@@@@@@@@@@@@%+=
-.-+++*%@@@@@*-+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%@@@@@@@@@@@@@@@@@+
-    .:-=:-@%*..+%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@@@@@@@@@@@@@@@@@@@
-          :+#@##@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%@@@@@@@@@@@@@@@@@@@
-            .+%@@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%#@@@@@@@#%@@@@@@@@@@@@@@@@@@%
-           .:*###%#*%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#%@@%%%%%%%%%%%%%%%%%
-          --..+##%%###%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%#@%%%%%%%@@@@@@@@@@*
-          *: :+=-+**##****##%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#%@@@@@@@@@@@@@@@@%:
-      ....*::=*+:-===++*++++++++*%@@@@@@@%@@@@@@@@@@@@@@@@@@@@@@@@*%@@@@@@@@@@@@@@*.
-    .=..:*%---=+++++++=+****###%%@@@@@@@@%%@@@@@@%%%@@@@@@@@@@@@@@#=#@@@@@@@@@@@@*
-    ++   .%*==+*%@@##@%%%@@@@@@@@@@@@@@@@@@@@@%%%%####%%@@@@@@@@@@@%##%@@@@@@@@#:
-   :%#++**%%#%%%####*+++++*****++*%@@@@@@@%#**##%###***#%@@@@@@@@@@@@%##%@@@@@#.
-   .+@+::++#+===----:--==========+#@@@@@@*==++*#%%%#**###@@@@@@@@@@@@@@%##%@%=
-     -*  .=#%--==------===========++**##*======+#@@%**###%@@@@@@@@@@@@@@@@%%*:.
-      =*.  :*==++---::-==========++++++++==+++=#@@@@@####@@@@@@@@@@@@@@@@@*:-+***++==
-       -*- :.:=+--::::-=====+++++++++*+++++++*#@@@@@@##%%@@@@@@@@@@@@@@@@+     ..::::
-        .-:. -=-::::--==++==+++++++++*++++++#@@@@@%%%%%%@@@@@@@@@@@@@@@@+
-             :==--::-===++==+++++++******+#@@@@@#**####%@@@@@@@@@@@@@@@-
-              .:------=======+++++********%@@@%*+++**#@@@@@@@@@@@@@@@#:
-                .--=-==========++++********####*+++#%@@@@@@@@@@@@@@@#
-                .-=---==========+++**********##%%@@@@@@@@@@@@@@@@@@@%:
-                :=++=============++*********####%@@%%@@@@@@@@@@@@@@@@%-
-                -=+++=======++==+++**#########%%%%%####%%%@@@@@@@@@@@@@+.
-                  .-======++++++++*#####%%%%@@@@%%##***###%@@@@@@@@@@@@@%+:
-                   :-=====+++++***#%%%%@@@@@@@@%###******#%@@@@@@@@@@@@@@@@#=----:
-                   .-==+++**#######*+#@@@@%%%%###*********#%%@@@@@@@@@@@@@@@@@@@@@#-.
-                     .:==+++++=-:.   :*###**************####%%%%%%%%%@@@@@@@@@@@@@@@@
-                                      -*#************#########%%%%%%%%%%%@@@@@@@@@@@@
-                                   .-*%%%##*******##########*#%%%%%%%%%%%@@@@@@@@@@@@
-                                :=#%@@@@@@@#******#######**####%%%%%%#%%@@@@@@@@@@@@@
-                             -*%@@@@@@@@@@@@%#*#########******#######%@@@@@@@@@@@@@@@
-                           -#@@@@@@@@@@@@@@@@@#*########*******####%%@@@@@@@@@@@@@@@@
-                          +@@@@@@@@@@@@@@@@@@@+-+*#####******++*#%@@@@@@@@@@@@@@@@@@@
-                         +@@@@@@@@@@@@@@@@@@@%=-==++++*****++**%@@@@@@@@@@@@@@@@@@@@@
-                        -@@@@@@@@@@@@@@@@@@@@%=-------===+**%@@@@@@@@@@@@@@@@@@@@@@@@
-                        %@@@@@@@@@@@@@@@@@@@@@#=--:.::-+*%@@@@@@@@@@@@@@@@@@@@@@@@@@@
-                       -@@@@@@@@@@@@@@@@@@@@@@@##***#%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-                       #@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-                      :@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-                      +@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-                      #@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-                      *@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-                      *@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-```
-
 ---
 
 ## About (自己紹介)
@@ -104,48 +45,41 @@ between using a model and understanding one.
 
 ## Currently Building (進行中)
 
+### CodeAtlas AI
+
+An AI project in active development. More soon.
+
+### Portfolio
+
+A developer portfolio bringing my projects, design philosophy and engineering work
+into one place.
+
+---
+
+## Shipped (公開済み)
+
 ### <img src="https://raw.githubusercontent.com/watermelon588/watermelon588/main/assets/skyguide.png" height="22" align="top" /> SkyGuide AI
 
-An AI-powered astronomical observation platform.
+AI-powered astronomical observation platform. Distributed microservices behind an API
+gateway — FastAPI for the compute-heavy work, Node.js for the application layer, and a
+real-time recommendation engine on top.
 
-Built on a distributed microservice architecture behind an API gateway, with FastAPI
-services for the compute-heavy work and Node.js handling the application layer. A
-real-time recommendation engine surfaces what's worth observing, backed by astronomical
-computations and MongoDB. Most of the effort here has gone into the production backend
-architecture — service boundaries, gateway routing, and keeping the whole thing
-observable.
-
-`Microservices` · `FastAPI` · `Node.js` · `API Gateway` · `MongoDB` · `Real-time Recommendations`
+`Microservices` · `FastAPI` · `Node.js` · `API Gateway` · `MongoDB`
 
 ### <img src="https://raw.githubusercontent.com/watermelon588/watermelon588/main/assets/neuron.png" height="22" align="top" /> Neuron
 
-An AI-powered multimodal semantic search system.
-
-Search across image, audio and text through a single pipeline — CLIP for visual
-embeddings, Whisper for audio transcription, FAISS for vector search. The interesting
-problem isn't any one model, it's the retrieval pipeline that stitches them into
-something that returns genuinely relevant results.
+Multimodal semantic search across image, audio and text. CLIP for visual embeddings,
+Whisper for transcription, FAISS for vector search — stitched into one retrieval
+pipeline.
 
 `Semantic Search` · `Embeddings` · `Vector Search` · `FAISS` · `CLIP` · `Whisper`
 
 ### <img src="https://raw.githubusercontent.com/watermelon588/watermelon588/main/assets/yapchat.png" height="22" align="top" /> YapChat
 
-A real-time communication platform.
-
-WebRTC for peer-to-peer media, a WebSockets signaling server over Socket.IO, and
-authentication layered on top. Low-latency communication makes the backend
-infrastructure unforgiving — this one has taught me the most about real-time systems.
+Real-time communication platform. WebRTC for peer-to-peer media, a Socket.IO signaling
+server, and authentication layered on top.
 
 `WebRTC` · `WebSockets` · `Socket.IO` · `Signaling Server` · `Authentication`
-
-### CodeAtlas AI
-
-An AI-focused project, currently under active development. More soon.
-
-### Portfolio
-
-A modern developer portfolio — projects, design philosophy, and engineering work in one
-place. Built with as much care as the systems behind it.
 
 ---
 
