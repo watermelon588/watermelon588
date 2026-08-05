@@ -190,6 +190,10 @@ What I'm actively pushing on right now:
 [![Stars](https://img.shields.io/github/stars/watermelon588?style=flat-square&affiliations=OWNER&color=0D1117&labelColor=0D1117&logo=github&logoColor=FFFFFF&label=stars)](https://github.com/watermelon588?tab=repositories)
 ![Profile views](https://komarev.com/ghpvc/?username=watermelon588&style=flat-square&color=0D1117&label=profile+views)
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=watermelon588&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=watermelon588&theme=github-dark&hide_border=true&area=true&custom_title=Contribution%20activity&height=280" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=watermelon588&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20activity&height=280" width="100%" alt="Contribution activity graph" />
