@@ -191,7 +191,7 @@ What I'm actively pushing on right now:
 ![Profile views](https://komarev.com/ghpvc/?username=watermelon588&style=flat-square&color=0D1117&label=profile+views)
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=watermelon588&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=watermelon588&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <picture>
