@@ -135,8 +135,12 @@ What I'm actively pushing on right now:
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=watermelon588&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=watermelon588&layout=compact&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=watermelon588&show_icons=true&theme=tokyonight&hide_border=true"/>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=watermelon588&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=watermelon588&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=watermelon588&theme=github-dark&hide_border=true&area=true&custom_title=Contribution%20activity&height=280" />
