@@ -37,6 +37,24 @@ production-grade backends rather than chasing surface polish.
 <code>Production Architecture</code>
 </p>
 
+## 📫 Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAME)
+
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/USERNAME)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/USERNAME)
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/ID)
+
+[![DEV](https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/USERNAME)
+
+[![CodePen](https://img.shields.io/badge/CodePen-000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/USERNAME)
+
+[![Stack Overflow](https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/ID)
+
 </td>
 <td width="38%" valign="top" align="center">
 
@@ -166,6 +184,9 @@ server, and authentication layered on top.
 </p>
 
 ---
+## 🛠 Languages & Tools
+
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,nodejs,express,mongodb,postgres,redis,docker,linux,git,github,react,ts,js,tailwind,figma,vscode&perline=9)](https://skillicons.dev)
 
 ## Current Focus (現在の章)
 
@@ -193,6 +214,8 @@ What I'm actively pushing on right now:
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=watermelon588&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=watermelon588&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=watermelon588&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=watermelon588&theme=github-dark&hide_border=true&area=true&custom_title=Contribution%20activity&height=280" />
