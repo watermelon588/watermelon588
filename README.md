@@ -85,15 +85,19 @@ production-grade backends rather than chasing surface polish.
 
 Going deep, not wide:
 
-- **AI systems** — Large Language Models, Generative AI, Agentic AI, RAG, AI system design
-- **Backend depth** — Advanced Python, FastAPI, backend architecture, API design
-- **Systems** — Distributed systems, microservices, scalability, production system design
-- **Security** — Auth, threat modelling, hardening services for production
+* **Agentic AI** — Agent architecture, agent workflows, tool use, planning, reasoning, multi-agent systems
+* **LLM Systems** — RAG, context engineering, structured outputs, function/tool calling, LLM application design
+* **Agent Infrastructure** — LangGraph, LangSmith, orchestration, state management, observability, evaluation
+* **Memory Systems** — Short-term and long-term memory, conversation state, retrieval, memory architectures
+* **Backend depth** — Advanced Python, FastAPI, backend architecture, API design
+* **Systems** — Distributed systems, microservices, scalability, reliability, production system design
+* **Security** — Authentication, authorization, threat modelling, service hardening
 
-Alongside that, I'm working through the mathematics underneath modern AI instead of
-treating models as black boxes — linear algebra, calculus, probability, statistics,
-optimization, neural networks, gradient descent. Slow going, but it's the difference
-between using a model and understanding one.
+I'm especially focused on understanding **how agentic systems actually work under the hood** — how agents maintain state, use tools, retrieve context, manage memory, recover from failures, and coordinate multiple steps reliably.
+
+Alongside that, I'm working through the mathematics underneath modern AI instead of treating models as black boxes — linear algebra, calculus, probability, statistics, optimization, neural networks, and gradient descent.
+
+Slow going, but that's the point.
 
 ---
 
@@ -101,49 +105,61 @@ between using a model and understanding one.
 
 ### <img src="https://raw.githubusercontent.com/watermelon588/watermelon588/main/assets/skyguide.png" height="22" align="top" /> [SkyGuide AI](https://skyguide-ai.vercel.app)
 
-AI-powered astronomical observation platform. Distributed microservices behind an API
-gateway — FastAPI for the compute-heavy work, Node.js for the application layer, and a
-real-time recommendation engine on top.
+AI-powered astronomical observation platform. Distributed microservices behind an API gateway — FastAPI for the compute-heavy work, Node.js for the application layer, and a real-time recommendation engine on top.
 
 `Microservices` · `FastAPI` · `Node.js` · `API Gateway` · `MongoDB`
 
 ### <img src="https://raw.githubusercontent.com/watermelon588/watermelon588/main/assets/neuron.png" height="22" align="top" /> Neuron
 
-Multimodal semantic search across image, audio and text. CLIP for visual embeddings,
-Whisper for transcription, FAISS for vector search — stitched into one retrieval
-pipeline.
+Multimodal semantic search across image, audio and text. CLIP for visual embeddings, Whisper for transcription, and FAISS for vector search — stitched into one retrieval pipeline.
 
 `Semantic Search` · `Embeddings` · `Vector Search` · `FAISS` · `CLIP` · `Whisper`
 
-### <img src="https://raw.githubusercontent.com/watermelon588/watermelon588/main/assets/yapchat.png" height="22" align="top" /> [YapChat](https://yap-chat-five.vercel.app)
+### 🌐 Portfolio
 
-Real-time communication platform. WebRTC for peer-to-peer media, a Socket.IO signaling
-server, and authentication layered on top.
+My personal portfolio — projects, experiments, technical work, and things I'm currently building.
 
-`WebRTC` · `WebSockets` · `Socket.IO` · `Signaling Server` · `Authentication`
+`Web` · `Projects` · `Experiments`
 
 ---
 
 ## Tech Stack (技術スタック)
 
-[![My Skills](https://skillicons.dev/icons?i=python,fastapi,nodejs,express,mongodb,postgres,redis,docker,linux,git,github,react,ts,js,tailwind,figma,vscode&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,nodejs,express,mongodb,postgres,redis,docker,linux,git,github,react,ts,js,tailwind,figma,vscode\&perline=9)](https://skillicons.dev)
+
+---
 
 ## Current Focus (現在の章)
 
 What I'm actively pushing on right now:
 
-| Area | What that looks like |
-| --- | --- |
-| Distributed systems | Service decomposition, communication patterns, failure modes |
-| Scalability | Load behaviour, caching layers, horizontal scaling |
-| Security | Auth flows, hardening, sane defaults |
-| Production backend | Observability, deployment, the boring things that matter |
-| System & API design | Contracts that survive the second version |
-| AI-native applications | RAG pipelines, agentic workflows, LLM-backed features |
-| Real-time communication | WebRTC, WebSockets, latency budgets |
-| Developer tooling | Making the loop between idea and running code shorter |
+| Area                     | What that looks like                                                           |
+| ------------------------ | ------------------------------------------------------------------------------ |
+| **Agentic Architecture** | Agent loops, planning, tool use, state graphs, multi-step workflows            |
+| **LangGraph**            | Stateful agents, graph-based orchestration, checkpoints, interrupts, subgraphs |
+| **Agent Memory**         | Short-term state, long-term memory, retrieval, context management              |
+| **LangSmith**            | Tracing, debugging, evaluation, observability, agent performance               |
+| **Orchestration**        | Reliable multi-step execution, retries, routing, human-in-the-loop workflows   |
+| **RAG Systems**          | Retrieval pipelines, hybrid search, reranking, context engineering             |
+| **LLM Applications**     | Tool calling, structured outputs, agents, LLM-backed features                  |
+| **Production Backend**   | FastAPI, APIs, databases, caching, observability, deployment                   |
+| **Distributed Systems**  | Service decomposition, communication patterns, failure modes                   |
+| **Scalability**          | Load behaviour, caching layers, horizontal scaling                             |
+| **Security**             | Auth flows, authorization, threat modelling, service hardening                 |
+| **System & API Design**  | Contracts, boundaries, reliability, versioning                                 |
+| **Developer Tooling**    | Making the loop between idea and running code shorter                          |
 
 ---
+
+## What I'm Building Toward
+
+The goal isn't just to build applications **with** AI.
+
+It's to understand and build the systems **around** AI:
+
+**Models → Tools → Agents → Memory → Orchestration → Observability → Production**
+
+That's the rabbit hole I'm currently in.
 
 ## Stats (記録)
 
