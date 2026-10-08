@@ -18,23 +18,28 @@
 
 <h2>About (自己紹介)</h2>
 
-<p>I'm Rohit — a backend-focused software engineer.</p>
+<p>I'm Rohit — a <b>backend & AI engineer</b> from Kolkata.</p>
 
 <p>
-I care about how systems hold up once they leave the laptop: how services talk
-to each other, where the bottlenecks hide, what breaks under load, and what it
-costs to keep things running. Most of my time goes into designing and building
-production-grade backends rather than chasing surface polish.
+I build backends that hold up — distributed services, realtime systems and LLM
+agents with guardrails, evals and fallbacks under the hood. I care about the
+parts nobody sees: service boundaries, queues, caches, rate limits, auth, and
+what happens when a provider goes down. I build AI <i>into</i> systems, not
+around them.
+</p>
+
+<p>
+Computer Science (IoT, Cybersecurity & Blockchain) at Heritage Institute of
+Technology · CGPA 9.02 · Smart India Hackathon 2025 national finalist.
 </p>
 
 <p>Things I keep circling back to:</p>
 
 <p>
 <code>Backend Engineering</code> · <code>Distributed Systems</code> ·
-<code>Microservices</code> · <code>System Design</code> · <code>API Design</code> ·
-<code>Real-time Systems</code> · <code>AI Engineering</code> ·
-<code>Infrastructure</code> · <code>Scalability</code> · <code>Security</code> ·
-<code>Production Architecture</code>
+<code>LLM Agents</code> · <code>LangGraph</code> · <code>System Design</code> ·
+<code>Realtime Systems</code> · <code>Retrieval & RAG</code> ·
+<code>Reliability</code> · <code>Security</code> · <code>Evals & Observability</code>
 </p>
 
 <h2>📫 Connect With Me</h2>
@@ -81,73 +86,99 @@ production-grade backends rather than chasing surface polish.
 
 ---
 
-## Currently Learning (学習中)
+## In Numbers (数字)
 
-Going deep, not wide:
-
-* **Agentic AI** — Agent architecture, agent workflows, tool use, planning, reasoning, multi-agent systems
-* **LLM Systems** — RAG, context engineering, structured outputs, function/tool calling, LLM application design
-* **Agent Infrastructure** — LangGraph, LangSmith, orchestration, state management, observability, evaluation
-* **Memory Systems** — Short-term and long-term memory, conversation state, retrieval, memory architectures
-* **Backend depth** — Advanced Python, FastAPI, backend architecture, API design
-* **Systems** — Distributed systems, microservices, scalability, reliability, production system design
-* **Security** — Authentication, authorization, threat modelling, service hardening
-
-I'm especially focused on understanding **how agentic systems actually work under the hood** — how agents maintain state, use tools, retrieve context, manage memory, recover from failures, and coordinate multiple steps reliably.
-
-Alongside that, I'm working through the mathematics underneath modern AI instead of treating models as black boxes — linear algebra, calculus, probability, statistics, optimization, neural networks, and gradient descent.
-
-Slow going, but that's the point.
+| | |
+|---|---|
+| **711** | API tests on Walkthru's agent platform |
+| **13,311** | deep-sky objects scored live per request in SkyGuide AI |
+| **24** | tools on a remote MCP server I built |
+| **20 Hz** | sensor stream driving a realtime state machine |
+| **23 / 23** | attack-probe checks passing on a Go server I hardened |
 
 ---
 
 ## Shipped (公開済み)
 
-### <img src="https://raw.githubusercontent.com/watermelon588/watermelon588/main/assets/skyguide.png" height="22" align="top" /> [SkyGuide AI](https://skyguide-ai.vercel.app)
+### 🧭 [Walkthru](https://github.com/watermelon588/Walkthru) — AI agent platform
 
-AI-powered astronomical observation platform. Distributed microservices behind an API gateway — FastAPI for the compute-heavy work, Node.js for the application layer, and a real-time recommendation engine on top.
+A LangGraph browser agent that runs real user journeys inside your own Chrome. The API stays stateless (`interrupt()` / resume over HTTP, a Postgres checkpointer); jobs run from a durable Postgres queue (`FOR UPDATE SKIP LOCKED`, leases, jittered backoff); a circuit breaker sits across the model providers; the crawler is SSRF-hardened; and a remote MCP server exposes 24 tools. Every safety rule is enforced in code, never in the prompt. **711 API tests**, plus LangSmith evals on adversarial fixture sites.
 
-`Microservices` · `FastAPI` · `Node.js` · `API Gateway` · `MongoDB`
+`LangGraph` · `FastAPI` · `PostgreSQL` · `Supabase (RLS)` · `MCP` · `LangSmith` · `Chrome MV3`
 
-### <img src="https://raw.githubusercontent.com/watermelon588/watermelon588/main/assets/neuron.png" height="22" align="top" /> Neuron
+### 🗺️ [TripVerse](https://tripverse-0.vercel.app) — agentic planner
 
-Multimodal semantic search across image, audio and text. CLIP for visual embeddings, Whisper for transcription, and FAISS for vector search — stitched into one retrieval pipeline.
+Two LangGraph planning graphs write into one normalized trip document. Budget, routing cost and day capacity are deterministic code; models only propose. Graph updates stream over FastAPI, with per-node model routing and a Groq → Groq → Gemini fallback on rate limits. **188 backend tests.** [Repo](https://github.com/watermelon588/Tripverse)
 
-`Semantic Search` · `Embeddings` · `Vector Search` · `FAISS` · `CLIP` · `Whisper`
+`LangGraph` · `FastAPI` · `PostgreSQL` · `SQLAlchemy` · `asyncpg` · `Groq` · `Gemini`
 
-### 🌐 Portfolio
+### 🔭 [SkyGuide AI](https://skyguide-ai.vercel.app) — distributed realtime system
 
-My personal portfolio — projects, experiments, technical work, and things I'm currently building.
+Three services: React, an Express 5 gateway and a private FastAPI astronomy engine behind an allowlisted proxy. It scores 13,311 deep-sky objects in one vectorised pass for your exact telescope and sky, and guides the scope live over a 20 Hz WebSocket stream with a hysteresis lock state machine. Expensive responses come from a stale-while-revalidate cache with single-flight. [Repo](https://github.com/watermelon588/skyguide-ai)
 
-`Web` · `Projects` · `Experiments`
+`Microservices` · `FastAPI` · `Express 5` · `Socket.IO` · `Astropy` · `MongoDB`
+
+### 🧠 [Neuron](https://github.com/watermelon588/Neuron) — multimodal retrieval & RAG
+
+Text, image and audio fused into one CLIP query vector and re-ranked by a weighted blend of BM25, dense and visual similarity. Location-aware RAG cites the exact page and line, and the backend degrades gracefully: lazy models, then BM25, then extractive answers.
+
+`FastAPI` · `CLIP` · `Whisper` · `FAISS` · `BM25` · `MongoDB`
+
+### 🔖 [Shiori](https://github.com/watermelon588/Shiori-) — Go server hardening
+
+I security-audited a Go/Echo media server (~300 routes) and closed a critical unauthenticated network exposure. I added a per-IP rate limiter, lockout, constant-time token checks and a strict CSP, then built sandboxed JavaScript providers (Goja) with automatic failover on top. **23/23 attack probes pass.**
+
+`Go` · `Echo` · `GORM` · `SQLite` · `Goja` · `WebSockets`
+
+### 💬 [Yap Chat](https://yap-chat-five.vercel.app) — realtime messaging & WebRTC
+
+Room-scoped realtime chat and 8-way peer-to-peer video. Socket identity is verified from a JWT, and the WebRTC mesh is glare-free and never routes media through the server. **35/35 tests** pass against a live server. [Repo](https://github.com/watermelon588/Yap-Chat)
+
+`Node.js` · `Socket.IO` · `WebRTC` · `MongoDB` · `JWT`
+
+### 🌐 [Portfolio](https://github.com/watermelon588/portfolio-job)
+
+A quiet, text-led portfolio in five themes. A die picks one on each visit. It holds case studies of everything above, my writing, and what I'm working on now.
+
+`Vite` · `GSAP` · `Lenis` · `Vanilla JS`
+
+---
+
+## Currently Going Deep On (現在の章)
+
+| Area | What that looks like |
+| --- | --- |
+| **Agent harnesses** | The runtime around a model: step budgets, interrupts, tool gates and safe stops enforced in code |
+| **Sandboxes** | Running agent actions and untrusted code with least privilege across browser, process and network boundaries |
+| **Agent memory** | Checkpointed state, short- and long-term memory, what an agent should recall across sessions |
+| **Retrieval pipelines** | Hybrid search, chunking that preserves citations, deciding what reaches the model and at what cost |
+| **Evals & observability** | LangSmith traces, adversarial fixtures, regression suites: proof an agent works, not a demo |
+| **Distributed systems** | Queues, idempotency, circuit breakers and caches that keep AI features up when providers aren't |
+
+I took the long road to LLMs — NumPy, Pandas and scikit-learn, classical ML, deep learning, then transformers and modern GPT architectures — and I'm still working through the maths underneath: linear algebra, probability, optimisation. Models aren't black boxes if you know what's inside.
 
 ---
 
 ## Tech Stack (技術スタック)
 
-[![My Skills](https://skillicons.dev/icons?i=python,fastapi,nodejs,express,mongodb,postgres,redis,docker,linux,git,github,react,ts,js,tailwind,figma,vscode\&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,nodejs,express,postgres,mongodb,mysql,redis,supabase,docker,jenkins,linux,git,github,go,java,c,cpp,ts,js,react,sklearn,tailwind,figma&perline=12)](https://skillicons.dev)
+
+**AI / LLM:** LangGraph · LangChain · LangSmith · RAG · MCP · tool calling · embeddings · FAISS · evals
+**Systems:** microservices · API gateways · caching · rate limiting · job queues · circuit breakers · sharding & partitioning
+**Security:** JWT & sessions · OWASP Top 10 · SSRF / CSRF defence · row-level security · threat modelling
 
 ---
 
-## Current Focus (現在の章)
+## Recognition (実績)
 
-What I'm actively pushing on right now:
+* **Smart India Hackathon 2025** — National Finalist (backend for LivestockIQ)
+* **SBI Ideathon 2025** — Top 1000 nationally (technical lead, PraanaCare)
 
-| Area                     | What that looks like                                                           |
-| ------------------------ | ------------------------------------------------------------------------------ |
-| **Agentic Architecture** | Agent loops, planning, tool use, state graphs, multi-step workflows            |
-| **LangGraph**            | Stateful agents, graph-based orchestration, checkpoints, interrupts, subgraphs |
-| **Agent Memory**         | Short-term state, long-term memory, retrieval, context management              |
-| **LangSmith**            | Tracing, debugging, evaluation, observability, agent performance               |
-| **Orchestration**        | Reliable multi-step execution, retries, routing, human-in-the-loop workflows   |
-| **RAG Systems**          | Retrieval pipelines, hybrid search, reranking, context engineering             |
-| **LLM Applications**     | Tool calling, structured outputs, agents, LLM-backed features                  |
-| **Production Backend**   | FastAPI, APIs, databases, caching, observability, deployment                   |
-| **Distributed Systems**  | Service decomposition, communication patterns, failure modes                   |
-| **Scalability**          | Load behaviour, caching layers, horizontal scaling                             |
-| **Security**             | Auth flows, authorization, threat modelling, service hardening                 |
-| **System & API Design**  | Contracts, boundaries, reliability, versioning                                 |
-| **Developer Tooling**    | Making the loop between idea and running code shorter                          |
+## Writing (執筆)
+
+* [Why does JavaScript feel so absurd? — Part 1](https://zaxx-blog.hashnode.dev/why-does-javascript-feel-so-absurd-part-1): type coercion & IEEE 754
+* [Why does JavaScript feel so absurd? — Part 2](https://zaxx-blog.hashnode.dev/why-does-javascript-feel-so-absurd-part-2): functions, scope & composition
+* [Why does JavaScript feel so absurd? — Part 3](https://zaxx-blog.hashnode.dev/why-does-javascript-feel-so-absurd-part-3): closures, the TDZ & `this`
 
 ---
 
@@ -155,9 +186,9 @@ What I'm actively pushing on right now:
 
 The goal isn't just to build applications **with** AI.
 
-It's to understand and build the systems **around** AI:
+It's to build the systems **around** AI — and make them hold up:
 
-**Models → Tools → Agents → Memory → Orchestration → Observability → Production**
+**Models → Tools → Agents → Memory → Orchestration → Evals → Production**
 
 That's the rabbit hole I'm currently in.
 
