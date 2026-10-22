@@ -178,6 +178,18 @@ I took the long road to LLMs — NumPy, Pandas and scikit-learn, classical ML, d
 **Systems:** microservices · API gateways · caching · rate limiting · job queues · circuit breakers · sharding & partitioning
 **Security:** JWT & sessions · OWASP Top 10 · SSRF / CSRF defence · row-level security · threat modelling
 
+## Tech Stack (技術スタック)
+
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,nodejs,express,postgres,mongodb,mysql,redis,supabase,docker,jenkins,linux,git,github,go,java,c,cpp,ts,js,react,threejs,vite,tailwind&perline=12)](https://skillicons.dev)
+
+- **AI & Agents:** LangGraph · LangChain · LangSmith · Gemini Live · MCP · RAG · AudioWorklet / Web Audio · Tool Calling · Embeddings · FAISS · Evals
+- **Backend & Realtime:** FastAPI · Node.js · Express 5 · WebSockets · Socket.IO · WebRTC · REST APIs · Pydantic · Asyncio
+- **Distributed Systems:** Microservices · API Gateways · Stale-While-Revalidate Caching · Rate Limiting · Job Queues (`SKIP LOCKED`) · Circuit Breakers · Sharding & Partitioning
+- **Data & Storage:** PostgreSQL · MongoDB Atlas · MySQL · Redis · SQLite · Supabase (RLS) · GORM · SQLAlchemy / asyncpg
+- **Security & Reliability:** JWT & HttpOnly Sessions · OWASP Top 10 · SSRF / CSRF Defense · Constant-time Crypto · Sandboxed Runtimes (Goja) · Threat Modeling
+- **Testing & Tooling:** Docker · Linux · Jenkins CI · Git / GitHub · pytest · Vitest · LangSmith Regression Suites
+
+
 ---
 
 ## Recognition (実績)
