@@ -90,6 +90,11 @@ Technology · CGPA 9.02 · Smart India Hackathon 2025 national finalist.
 
 | | |
 |---|---|
+| **16 kHz / 24 kHz** | PCM16 streaming pipeline with interruption flushing in KOE |
+| **10 min** | persisted approval expiry with atomic claims on agentic writes |
+| **188** | backend tests on TripVerse's deterministic planner |
+| **35 / 35** | live-server WebSocket & WebRTC tests passing in Yap Chat |
+| **5** | standalone design systems driven by one central content schema |
 | **711** | API tests on Walkthru's agent platform |
 | **13,311** | deep-sky objects scored live per request in SkyGuide AI |
 | **24** | tools on a remote MCP server I built |
@@ -124,6 +129,12 @@ Text, image and audio fused into one CLIP query vector and re-ranked by a weight
 
 `FastAPI` · `CLIP` · `Whisper` · `FAISS` · `BM25` · `MongoDB`
 
+### 🎙️ [KOE (声)](https://koe-pi.vercel.app/) — voice agent & connected workspace
+
+A voice-first workday companion built on Gemini Live, web chat, and voice notes over a shared Python tool registry. Calendar, Google Docs/Sheets, GitHub and Notion workflows pass through a PostgreSQL-backed persisted approval gate: arguments freeze into a proposal with a 10-minute expiry, and an atomic claim stops duplicate clicks or race conditions before invoking allowlisted writers. AudioWorklet captures 16 kHz PCM16, scheduled 24 kHz Web Audio flushes immediately on user interruption, and an exclusive audio coordinator halts microphone acquisition if Spotify playback state is ambiguous. [Repo](https://github.com/watermelon588/Koe)
+
+`FastAPI` · `Gemini Live` · `PostgreSQL (Neon)` · `AudioWorklet` · `WebSockets` · `Three.js (VRM)` · `React 19` · `TypeScript` · `OAuth`
+
 ### 🔖 [Shiori](https://github.com/watermelon588/Shiori-) — Go server hardening
 
 I security-audited a Go/Echo media server (~300 routes) and closed a critical unauthenticated network exposure. I added a per-IP rate limiter, lockout, constant-time token checks and a strict CSP, then built sandboxed JavaScript providers (Goja) with automatic failover on top. **23/23 attack probes pass.**
@@ -136,11 +147,11 @@ Room-scoped realtime chat and 8-way peer-to-peer video. Socket identity is verif
 
 `Node.js` · `Socket.IO` · `WebRTC` · `MongoDB` · `JWT`
 
-### 🌐 [Portfolio](https://github.com/watermelon588/portfolio-job)
+### 🌐 [Portfolio](https://portfolio-web-six-psi-43.vercel.app/) — five themes, one codebase
 
-A quiet, text-led portfolio in five themes. A die picks one on each visit. It holds case studies of everything above, my writing, and what I'm working on now.
+A quiet, text-led portfolio rendered across five distinct aesthetic variants (Paper, Ledger, Signal, Blueprint, Dial). Features an interactive 3D dice-roll preloader, procedural low-fi canvas veil filters (haze, mosaic, dither, smear, scribble), zero framework bloat, and smooth physics-driven kinetic scrolling. [Repo](https://github.com/watermelon588/portfolio-job)
 
-`Vite` · `GSAP` · `Lenis` · `Vanilla JS`
+`Vanilla JS` · `Vite` · `GSAP` · `Lenis` · `HTML5 / CSS3`
 
 ---
 
