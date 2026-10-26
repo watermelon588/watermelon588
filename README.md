@@ -44,7 +44,7 @@ Technology · CGPA 9.02 · Smart India Hackathon 2025 national finalist.
 
 <h2>📫 Connect With Me</h2>
 <p align="left">
-  <a href="https://portfolio-web-six-psi-43.vercel.app/">
+  <a href="https://portfolio2-mu-inky.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
   <a href="https://linkedin.com/in/maity-rohit">
