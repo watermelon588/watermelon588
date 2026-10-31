@@ -103,58 +103,6 @@ Technology · CGPA 9.02 · Smart India Hackathon 2025 national finalist.
 
 ---
 
-## Shipped (公開済み)
-
-### 🧭 [Walkthru](https://github.com/watermelon588/Walkthru) — AI agent platform
-
-A LangGraph browser agent that runs real user journeys inside your own Chrome. The API stays stateless (`interrupt()` / resume over HTTP, a Postgres checkpointer); jobs run from a durable Postgres queue (`FOR UPDATE SKIP LOCKED`, leases, jittered backoff); a circuit breaker sits across the model providers; the crawler is SSRF-hardened; and a remote MCP server exposes 24 tools. Every safety rule is enforced in code, never in the prompt. **711 API tests**, plus LangSmith evals on adversarial fixture sites.
-
-`LangGraph` · `FastAPI` · `PostgreSQL` · `Supabase (RLS)` · `MCP` · `LangSmith` · `Chrome MV3`
-
-### 🗺️ [TripVerse](https://tripverse-0.vercel.app) — agentic planner
-
-Two LangGraph planning graphs write into one normalized trip document. Budget, routing cost and day capacity are deterministic code; models only propose. Graph updates stream over FastAPI, with per-node model routing and a Groq → Groq → Gemini fallback on rate limits. **188 backend tests.** [Repo](https://github.com/watermelon588/Tripverse)
-
-`LangGraph` · `FastAPI` · `PostgreSQL` · `SQLAlchemy` · `asyncpg` · `Groq` · `Gemini`
-
-### 🔭 [SkyGuide AI](https://skyguide-ai.vercel.app) — distributed realtime system
-
-Three services: React, an Express 5 gateway and a private FastAPI astronomy engine behind an allowlisted proxy. It scores 13,311 deep-sky objects in one vectorised pass for your exact telescope and sky, and guides the scope live over a 20 Hz WebSocket stream with a hysteresis lock state machine. Expensive responses come from a stale-while-revalidate cache with single-flight. [Repo](https://github.com/watermelon588/skyguide-ai)
-
-`Microservices` · `FastAPI` · `Express 5` · `Socket.IO` · `Astropy` · `MongoDB`
-
-### 🧠 [Neuron](https://github.com/watermelon588/Neuron) — multimodal retrieval & RAG
-
-Text, image and audio fused into one CLIP query vector and re-ranked by a weighted blend of BM25, dense and visual similarity. Location-aware RAG cites the exact page and line, and the backend degrades gracefully: lazy models, then BM25, then extractive answers.
-
-`FastAPI` · `CLIP` · `Whisper` · `FAISS` · `BM25` · `MongoDB`
-
-### 🎙️ [KOE (声)](https://koe-pi.vercel.app/) — voice agent & connected workspace
-
-A voice-first workday companion built on Gemini Live, web chat, and voice notes over a shared Python tool registry. Calendar, Google Docs/Sheets, GitHub and Notion workflows pass through a PostgreSQL-backed persisted approval gate: arguments freeze into a proposal with a 10-minute expiry, and an atomic claim stops duplicate clicks or race conditions before invoking allowlisted writers. AudioWorklet captures 16 kHz PCM16, scheduled 24 kHz Web Audio flushes immediately on user interruption, and an exclusive audio coordinator halts microphone acquisition if Spotify playback state is ambiguous. [Repo](https://github.com/watermelon588/Koe)
-
-`FastAPI` · `Gemini Live` · `PostgreSQL (Neon)` · `AudioWorklet` · `WebSockets` · `Three.js (VRM)` · `React 19` · `TypeScript` · `OAuth`
-
-### 🔖 [Shiori](https://github.com/watermelon588/Shiori-) — Go server hardening
-
-I security-audited a Go/Echo media server (~300 routes) and closed a critical unauthenticated network exposure. I added a per-IP rate limiter, lockout, constant-time token checks and a strict CSP, then built sandboxed JavaScript providers (Goja) with automatic failover on top. **23/23 attack probes pass.**
-
-`Go` · `Echo` · `GORM` · `SQLite` · `Goja` · `WebSockets`
-
-### 💬 [Yap Chat](https://yap-chat-five.vercel.app) — realtime messaging & WebRTC
-
-Room-scoped realtime chat and 8-way peer-to-peer video. Socket identity is verified from a JWT, and the WebRTC mesh is glare-free and never routes media through the server. **35/35 tests** pass against a live server. [Repo](https://github.com/watermelon588/Yap-Chat)
-
-`Node.js` · `Socket.IO` · `WebRTC` · `MongoDB` · `JWT`
-
-### 🌐 [Portfolio](https://portfolio-web-six-psi-43.vercel.app/) — five themes, one codebase
-
-A quiet, text-led portfolio rendered across five distinct aesthetic variants (Paper, Ledger, Signal, Blueprint, Dial). Features an interactive 3D dice-roll preloader, procedural low-fi canvas veil filters (haze, mosaic, dither, smear, scribble), zero framework bloat, and smooth physics-driven kinetic scrolling. [Repo](https://github.com/watermelon588/portfolio-job)
-
-`Vanilla JS` · `Vite` · `GSAP` · `Lenis` · `HTML5 / CSS3`
-
----
-
 ## Currently Going Deep On (現在の章)
 
 | Area | What that looks like |
@@ -181,19 +129,6 @@ I took the long road to LLMs — NumPy, Pandas and scikit-learn, classical ML, d
 - **Security & Reliability:** JWT & HttpOnly Sessions · OWASP Top 10 · SSRF / CSRF Defense · Constant-time Crypto · Sandboxed Runtimes (Goja) · Threat Modeling
 - **Testing & Tooling:** Docker · Linux · Jenkins CI · Git / GitHub · pytest · Vitest · LangSmith Regression Suites
 
-
----
-
-## Recognition (実績)
-
-* **Smart India Hackathon 2025** — National Finalist (backend for LivestockIQ)
-* **SBI Ideathon 2025** — Top 1000 nationally (technical lead, PraanaCare)
-
-## Writing (執筆)
-
-* [Why does JavaScript feel so absurd? — Part 1](https://zaxx-blog.hashnode.dev/why-does-javascript-feel-so-absurd-part-1): type coercion & IEEE 754
-* [Why does JavaScript feel so absurd? — Part 2](https://zaxx-blog.hashnode.dev/why-does-javascript-feel-so-absurd-part-2): functions, scope & composition
-* [Why does JavaScript feel so absurd? — Part 3](https://zaxx-blog.hashnode.dev/why-does-javascript-feel-so-absurd-part-3): closures, the TDZ & `this`
 
 ---
 
