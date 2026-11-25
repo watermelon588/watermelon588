@@ -10,24 +10,6 @@
 
 ---
 
-<!-- ===================== NOW SHIPPING ===================== -->
-
-## Now Shipping (新作)
-
-<a href="https://github.com/watermelon588/agentpeeps"><img src="https://raw.githubusercontent.com/watermelon588/agentpeeps/main/website/web/public/brand/social-card.png" width="560" align="right" alt="Agent Peeps: see what your AI coding agents are doing"></a>
-
-**[Agent Peeps](https://github.com/watermelon588/agentpeeps)**: a tiny live sticker for every Claude Code, Codex, Copilot and Antigravity session, so you can see what each AI coding agent is doing, and which one needs you.
-
-```bash
-npx agentpeeps init
-```
-
-[Live demo](https://www.agentpeeps.space) · [Repo](https://github.com/watermelon588/agentpeeps) · [npm](https://www.npmjs.com/package/agentpeeps) · ⭐ if it's useful
-
-<br clear="right">
-
----
-
 <!-- ===================== ABOUT ===================== -->
 
 <table>
